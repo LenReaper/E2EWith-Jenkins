@@ -4,7 +4,7 @@ public class TCK_05 {
 	
 	public void kls()
 	{
-		
+	dSDvSdvsvdSdvsvs	
 	}
 
 }
